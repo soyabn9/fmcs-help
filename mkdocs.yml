@@ -1,0 +1,84 @@
+# Project information
+site_name: 'FMCS HELP TEST'
+site_description: 'FMCS HELP is a place for all FAQs related to freemcserver.net'
+site_author: 'Soyab Nandhla'
+site_url: 'https://github.io/soyabn9/docs-test'
+
+# Copyright
+copyright: '&copy; 2020 Soyab Nandhla'
+
+# Configuration
+docs_dir: 'docs'
+theme:
+  name: 'material'
+  language: 'en'
+  shortcuts:
+    help: 191    # ?
+    next: 78     # n
+    previous: 80 # p
+    search: 83   # s
+  palette:
+    primary: 'blue'
+    accent: 'blue'
+  feature:
+    tabs: true
+  #font:
+    #text: 'Ubuntu'
+    #code: 'Ubuntu Mono'
+  #logo:
+    #icon: 'images/logo.svg'
+  #favicon: 'assets/images/favicon.ico'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      linenums: true
+  - footnotes
+  - meta
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Plugins
+plugins:
+  - search
+
+# Customization
+extra:
+  search:
+    language: 'en'
+  social:
+    - type: 'twitter'
+      link: 'https://twitter.com/freemcservernet'
+
+# Page tree
+nav:
+  - Home: index.md
+  - ToS: tos.md
+  - Youtube Channel: youtube-channel.md
+  - Java: 
+    - Java FAQ: java/java-faq.md
+    - Modded Server FAQ: java/modded-server-faq.md
+    - Java Plugin FAQ: java/java-plugin-faq.md
+  - Bedrock:
+    - Bedrock FAQ: nukkit/bedrock-faq.md
+    - Bedrock Plugin FAQ: nukkit/bedrock-plugin-faq.md
+  - Site Builder: 
+    - Basics: site-builder/basics.md
+    - Advanced: site-builder/advanced.md
+  - Discord Server:
+    - Server Rules: discord-server/rules.md
+    - Server Advertising Rules: discord-server/advertising-rules.md
+    - Nitro Boosting Info: discord-server/nitro-boost-info.md
