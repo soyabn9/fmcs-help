@@ -137,7 +137,7 @@ By upgrading the server, you can get what is said that you will get. So does the
 
 ### Starter Upgrade:
 
-**RAM Memory:** 1024 MB \(1 GB\)
+**RAM Memory:** 1024 MB (1 GB)
 
 **CPU Limit:** Medium
 
@@ -147,7 +147,7 @@ By upgrading the server, you can get what is said that you will get. So does the
 
 **Days between renewals:** 30 days
 
-**Plan duration:** 30 days \(can be extended later\)
+**Plan duration:** 30 days (can be extended later)
 
 **Price:** 350 credits
 

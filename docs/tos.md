@@ -1,6 +1,3 @@
-title: Terms of Service
-description: 
-
 # Terms of Service
 
 A link to the official freemcserver.net terms of service is [here](https://freemcserver.net/site/tos).
@@ -10,9 +7,9 @@ A link to the official freemcserver.net terms of service is [here](https://freem
 1. any illegal content;
 2. any cracked plugin or mod;
 3. any malicious plugin, mod or jar;
-4. any script files \(.sh, .py, .pl, .bat and similar\);
+4. any script files (.sh, .py, .pl, .bat and similar);
 5. any plugin or mod that allows changing the memory or port;
-6. any plugin or mod that listens on any network port \(unless configured to listen on the 50000-51000 port range\);
+6. any plugin or mod that listens on any network port (unless configured to listen on the 50000-51000 port range);
 7. any plugin with remote console capabilities;
 8. any plugins or mods that attempt to execute bash commands;
 9. any plugins or mods that perform runtime patching or compiling of other plugins;
@@ -44,8 +41,8 @@ No, due to security reasons, freemcserver does not support or allow the use of B
 
 ## Conduct, General Prohibitions
 
-1. attempt to access or search the Services or Content or download Content from the Services through the use of any technology or means other than those provided by us or other generally available third party web browsers \(including without limitation automation software, bots, spiders, crawlers, data mining tools, or hacks, tools, agents, engines, or devices of any kind\);
-2. attempt to decipher, decompile, disassemble, or reverse engineer any of the software used to provide the Services or Content bypass, remove, deactivate, descramble, or otherwise circumvent any technological measure implemented by us or any of our providers or any other third party \(including another user\) to protect the Services or Content;
+1. attempt to access or search the Services or Content or download Content from the Services through the use of any technology or means other than those provided by us or other generally available third party web browsers (including without limitation automation software, bots, spiders, crawlers, data mining tools, or hacks, tools, agents, engines, or devices of any kind);
+2. attempt to decipher, decompile, disassemble, or reverse engineer any of the software used to provide the Services or Content bypass, remove, deactivate, descramble, or otherwise circumvent any technological measure implemented by us or any of our providers or any other third party (including another user) to protect the Services or Content;
 3. attempt to probe, scan, or test the vulnerability of any FreeMcServer.net system or network or Service, or breach any security or authentication measures interfere with, or attempt to interfere with, the access of any user, host, or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mailbombing the Services;
 4. resell any service obtained from us;
 5. host, use, access, or operate any illegal content;
@@ -55,7 +52,7 @@ No, due to security reasons, freemcserver does not support or allow the use of B
 9. use any system bug to bypass any restriction or plan enforcing will result in direct server termination and ban from the platform;
 10. block, or report as SPAM any email sent by us;
 11. affect other users negatively, including, but not limited to abusing server resources or causing load spikes;
-12. run any kind of bots \(including, but not limited to, Discord or TeamSpeak Bots\);
+12. run any kind of bots (including, but not limited to, Discord or TeamSpeak Bots);
 13. use any kind of proxy systems, including but not limited to BungeeCord;
 
 ## Account Suspension or Termination
@@ -70,7 +67,7 @@ We may suspend or terminate your access to and use of the Services, at our sole 
 
 Suspended server's files are retained until the account gets reactivated, up to 7 days;
 
-Terminated account's files are deleted in up to 24h after termination \(usually within 1h\);
+Terminated account's files are deleted in up to 24h after termination (usually within 1h);
 
 ## Conclusion
 

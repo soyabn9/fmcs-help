@@ -4,10 +4,10 @@ The YouTube Channel page is to show existing and upcoming videos on both of thes
 
 ## FMCS HELP YouTube Channel
 
-This FAQ now has a YouTube Channel called \([FMCS HELP](https://www.youtube.com/channel/UChwYHiTiXOM6ub6NFidtWCg)\). The Youtube Channel is to provide help to those who are unable to figure out what to do even if it is explained in this FAQ. The videos will all be related to this FAQ with links to the question in the description of each video.
+This FAQ now has a YouTube Channel called ([FMCS HELP](https://www.youtube.com/channel/UChwYHiTiXOM6ub6NFidtWCg)). The Youtube Channel is to provide help to those who are unable to figure out what to do even if it is explained in this FAQ. The videos will all be related to this FAQ with links to the question in the description of each video.
 
-> [!WARNING]
-> These videos will only be in English and they will not be in any other language.
+!!! warning
+    These videos will only be in English and they will not be in any other language.
 
 Every [FMCS HELP](https://www.youtube.com/channel/UChwYHiTiXOM6ub6NFidtWCg) video will be listed below:
 
@@ -19,11 +19,11 @@ Every [FMCS HELP](https://www.youtube.com/channel/UChwYHiTiXOM6ub6NFidtWCg) vide
 
 ## Official FreeMcServer Youtube Channel
 
-Freemcserver.net have had a YouTube channel called \([FreeMcServer](https://www.youtube.com/channel/UCw48-B-1frsEx96wNgDEPwA)\), which is now being used to upload tutorials created by Facha (Owner) to help users on the site and might be able to be used to look at sneak peaks of new and upcoming features on [freemcserver.net](https://freemcserver.net/).
+Freemcserver.net have had a YouTube channel called ([FreeMcServer](https://www.youtube.com/channel/UCw48-B-1frsEx96wNgDEPwA)), which is now being used to upload tutorials created by Facha (Owner) to help users on the site and might be able to be used to look at sneak peaks of new and upcoming features on [freemcserver.net](https://freemcserver.net/).
 
 
-> [!WARNING]
-> These videos will only be in English and they will not be in any other language.
+!!! warning
+    These videos will only be in English and they will not be in any other language.
 
 Every [FreeMcServer](https://www.youtube.com/channel/UCw48-B-1frsEx96wNgDEPwA) video will be listed below:
 

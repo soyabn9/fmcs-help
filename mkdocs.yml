@@ -25,9 +25,9 @@ theme:
   #font:
     #text: 'Ubuntu'
     #code: 'Ubuntu Mono'
-  #logo:
-    #icon: 'images/logo.svg'
-  #favicon: 'assets/images/favicon.ico'
+  logo:
+    icon: 'https://freemcserver.net/img/logo.png'
+  favicon: 'https://freemcserver.net/img/logo.png'
 
 # Extensions
 markdown_extensions:
@@ -66,7 +66,7 @@ extra:
 # Page tree
 nav:
   - Home: index.md
-  - ToS: tos.md
+  - Terms of Service: tos.md
   - Youtube Channel: youtube-channel.md
   - Java: 
     - Java FAQ: java/java-faq.md
