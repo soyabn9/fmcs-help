@@ -1,16 +1,16 @@
 # Project information
 site_name: 'FMCS HELP TEST'
 site_description: 'FMCS HELP is a place for all FAQs related to freemcserver.net'
-site_author: 'Soyab Nandhla'
-site_url: 'https://soyabn9.github.io/docs-test/'
+site_url: 'https://test.fmcshelp.tk/'
 
 # Copyright
-copyright: '&copy; 2020 Soyab Nandhla'
+copyright: '&copy; 2020 FMCS HELP TEST'
 
 # Configuration
 docs_dir: 'docs'
 theme:
   name: 'material'
+  custom_dir: 'theme'
   language: 'en'
   shortcuts:
     help: 191    # ?
@@ -18,16 +18,18 @@ theme:
     previous: 80 # p
     search: 83   # s
   palette:
-    primary: 'blue'
-    accent: 'blue'
+    primary: 'light-green'
+    accent: 'light-green'
   feature:
     tabs: true
   #font:
     #text: 'Ubuntu'
     #code: 'Ubuntu Mono'
-  logo:
-    icon: 'https://freemcserver.net/img/logo.png'
   favicon: 'https://freemcserver.net/img/logo.png'
+
+extra_css:
+  - stylesheets/dark_theme.css
+  - stylesheets/codehilite.css
 
 # Extensions
 markdown_extensions:
@@ -57,6 +59,7 @@ plugins:
 
 # Customization
 extra:
+  manifest: 'manifest.json'
   search:
     language: 'en'
   social:
@@ -68,6 +71,8 @@ nav:
   - Home: index.md
   - Terms of Service: tos.md
   - Youtube Channel: youtube-channel.md
+  - Getting Started: 
+    - Control Panel: getting-started/index.md
   - Java: 
     - Java FAQ: java/java-faq.md
     - Modded Server FAQ: java/modded-server-faq.md
