@@ -21,27 +21,42 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://test.fmcshelp.tk/java/java-faq/</loc>
+     <loc>https://test.fmcshelp.tk/getting-started/control-panel/</loc>
      <lastmod>2020-03-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://test.fmcshelp.tk/java/modded-server-faq/</loc>
+     <loc>https://test.fmcshelp.tk/java/</loc>
      <lastmod>2020-03-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://test.fmcshelp.tk/java/java-plugin-faq/</loc>
+     <loc>https://test.fmcshelp.tk/java/custom-ip/</loc>
      <lastmod>2020-03-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://test.fmcshelp.tk/nukkit/bedrock-faq/</loc>
+     <loc>https://test.fmcshelp.tk/java/custom-jar/</loc>
      <lastmod>2020-03-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://test.fmcshelp.tk/nukkit/bedrock-plugin-faq/</loc>
+     <loc>https://test.fmcshelp.tk/java/java-plugins/</loc>
+     <lastmod>2020-03-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://test.fmcshelp.tk/nukkit/</loc>
+     <lastmod>2020-03-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://test.fmcshelp.tk/nukkit/nukkit-plugins/</loc>
+     <lastmod>2020-03-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://test.fmcshelp.tk/site-builder/</loc>
      <lastmod>2020-03-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -56,7 +71,7 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://test.fmcshelp.tk/discord-server/rules/</loc>
+     <loc>https://test.fmcshelp.tk/discord-server/server-rules/</loc>
      <lastmod>2020-03-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
