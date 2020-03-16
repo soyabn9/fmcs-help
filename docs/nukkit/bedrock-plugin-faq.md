@@ -1,1 +1,0 @@
-# Bedrock Plugin FAQ
