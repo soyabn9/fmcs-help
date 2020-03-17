@@ -31,6 +31,10 @@ extra_css:
   - stylesheets/dark_theme.css
   - stylesheets/codehilite.css
 
+extra_javascript:
+  - javascripts/sw.js
+  - javascripts/app.js
+
 # Extensions
 markdown_extensions:
   - admonition
