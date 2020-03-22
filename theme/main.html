@@ -9,3 +9,13 @@
 <meta name='mobile-web-app-capable' content='yes'>
 <link rel="manifest" href="/manifest.json">
 {% endblock %}
+
+{% block scripts %}
+if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+        navigator.serviceWorker.register("/javascripts/sw.js").then(reg => {
+            console.log("Service worker registered.", reg);
+        });
+    });
+}
+{% endblock %}
