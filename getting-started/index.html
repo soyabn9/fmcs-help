@@ -727,14 +727,13 @@
       
     </div>
     
-      <script src="../assets/javascripts/application.808e90bb.js"></script>
-      
-      <script>app.initialize({version:"1.0.4",url:{base:".."}})</script>
-      
-        <script src="../javascripts/sw.js"></script>
-      
-        <script src="../javascripts/app.js"></script>
-      
-    
+if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+        navigator.serviceWorker.register("/javascripts/sw.js").then(reg => {
+            console.log("Service worker registered.", reg);
+        });
+    });
+}
+
   </body>
 </html>
