@@ -1,7 +1,7 @@
 # Project information
 site_name: 'FMCS HELP TEST'
 site_description: 'FMCS HELP is a place for all FAQs related to freemcserver.net'
-site_url: 'https://soyabn9.github.io/docs-test/'
+site_url: 'https://test.fmcshelp.tk'
 
 # Copyright
 copyright: '&copy; 2020 FMCS HELP TEST'
@@ -10,7 +10,6 @@ copyright: '&copy; 2020 FMCS HELP TEST'
 docs_dir: 'docs'
 theme:
   name: 'material'
-  custom_dir: 'theme'
   language: 'en'
   shortcuts:
     help: 191    # ?
@@ -31,12 +30,10 @@ extra_css:
   - stylesheets/dark_theme.css
   - stylesheets/codehilite.css
 
-extra_javascript:
-  - javascripts/sw.js
-  - javascripts/app.js
-
 # Extensions
 markdown_extensions:
+  - toc:
+      permalink: ''
   - admonition
   - codehilite:
       linenums: true
@@ -63,12 +60,8 @@ plugins:
 
 # Customization
 extra:
-  manifest: 'manifest.json'
   search:
     language: 'en'
-  social:
-    - type: 'twitter'
-      link: 'https://twitter.com/freemcservernet'
 
 # Page tree
 nav:
