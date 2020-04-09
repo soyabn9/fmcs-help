@@ -19,11 +19,13 @@ theme:
   palette:
     primary: 'light-green'
     accent: 'light-green'
-  feature:
-    tabs: true
+  features:
+    - tabs
+    - instant
   #font:
     #text: 'Ubuntu'
     #code: 'Ubuntu Mono'
+  logo: 'https://freemcserver.net/img/logo.png'
   favicon: 'https://freemcserver.net/img/logo.png'
 
 extra_css:
@@ -57,11 +59,22 @@ markdown_extensions:
 # Plugins
 plugins:
   - search
+  - git-revision-date-localized
+  - git-authors
 
-# Customization
 extra:
-  search:
-    language: 'en'
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/freemcservernet
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/freemcservernet
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/freemcservernet/
+    - icon: fontawesome/brands/discord
+      link: https://discordapp.com/invite/u99dDtE
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCw48-B-1frsEx96wNgDEPwA?sub_confirmation=1
+
 
 # Page tree
 nav:
