@@ -93,6 +93,7 @@ nav:
     - Introduction: nukkit/index.md
     - Nukkit Plugins: nukkit/nukkit-plugins.md
   - Discord Server:
+    - Introduction: discord-server/index.md
     - Server Rules: discord-server/server-rules.md
     - Server Advertising Rules: discord-server/advertising-rules.md
     - Nitro Boosting Info: discord-server/nitro-boost-info.md
