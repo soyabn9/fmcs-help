@@ -1,5 +1,5 @@
 markdown==3.2.1
-pymdown-extensions==7.0.0
+pymdown-extensions==10.0
 mkdocs==1.1.0
 mkdocs-material==5.0.1
 mkdocs-git-revision-date-localized-plugin==0.5.0
